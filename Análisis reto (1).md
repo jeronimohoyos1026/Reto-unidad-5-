@@ -50,3 +50,8 @@ Representación de datos: Constituye un conjunto de datos estructurados organiza
 
 Representa la infraestructura física, la cobertura de transporte aéreo regional y la conectividad geográfica en Colombia. Permite realizar análisis cuantitativos como el conteo de frecuencias por departamento, promedios, medianas y visualización de tendencias o dispersión de datos. 
 
+Conclusiones obtenidas de los gráficos de los datos 
+•	Existe una alta diversidad topográfica en la red de operaciones de la aerolínea. Mientras que muchos aeródromos operan a nivel del mar o en zonas planas de baja altitud (cerca de 0 pies), otros picos superan los 800 pies, reflejando los retos geográficos de conectar regiones selváticas, costeras y montañosas.
+•	Chocó (10.5%), Antioquia (7.0%) y Amazonas (7.0%) lideran la concentración de operaciones o infraestructura registrada. Esto demuestra estadísticamente el propósito misional de la aerolínea estatal: priorizar la conectividad en regiones periféricas, selváticas o apartadas donde la infraestructura vial es limitada.
+•	Se confirma que el archivo carece de párrafos largos o densos. Las líneas son extremadamente cortas, lo cual es coherente con frases de saludo o líneas de texto sueltas.
+
