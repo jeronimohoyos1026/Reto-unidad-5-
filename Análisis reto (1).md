@@ -44,6 +44,13 @@ Representa el universo cultural, histórico y fantástico de Macondo. En un cont
 
 narrativos, personajes y conceptos clave como el aislamiento, las enfermedades o el tiempo. 
 
+
+Representacion de datos: Lo obtuvimos descargándolo desde una página de Google dedicada a repositorios públicos de datos y recursos educativos en línea.
+
+Desde allí se guardó directamente en el equipo en la ruta local /Users/camilovalencia/Documents/txt/long-doc.txt.txt para ser procesado localmente mediante el script de Python.
+
+Representa un archivo de texto plano (formato .txt) estructurado para pruebas de análisis de datos. Contiene una combinación de información geográfica de departamentos de Colombia (como Chocó, Antioquia o Amazonas con sus respectivas coordenadas de latitud y longitud) junto con un corpus de texto sintético compuesto por bloques de Lorem Ipsum e instrucciones de código (como la palabra translate), diseñado específicamente para practicar extracción de datos, visualización y procesamiento de lenguaje natural.
+
 #  **Dataset de transporte (SATENA):** 
 
 Representación de datos: Constituye un conjunto de datos estructurados organizados en filas y columnas. 
@@ -56,4 +63,8 @@ Representa la infraestructura física, la cobertura de transporte aéreo regiona
 •	Chocó (10.5%), Antioquia (7.0%) y Amazonas (7.0%) lideran la concentración de operaciones o infraestructura registrada. Esto demuestra estadísticamente el propósito misional de la aerolínea estatal: priorizar la conectividad en regiones periféricas, selváticas o apartadas donde la infraestructura vial es limitada.
 
 •	Se confirma que el archivo carece de párrafos largos o densos. Las líneas son extremadamente cortas, lo cual es coherente con frases de saludo o líneas de texto sueltas.
+
+• La gran mayoría de las palabras principales en el análisis corresponden al texto estándar de relleno (sit, lorem, ipsum, elit, dolor, consectetur, amet y adipiscing), cada una con exactamente 2000 apariciones.          
+
+• Chocó representa la proporción más alta dentro de la distribución total con un 10.5%, dando a concluir que el chocó es el departamento  donde la aerolínea satena realiza mas sus vuelos con frecuencia.
 
