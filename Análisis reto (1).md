@@ -28,6 +28,9 @@ Origen primario: Es una obra literaria de ficción escrita por Gabriel García M
 
 Origen del archivo de datos: El archivo PDF procesado proviene de repositorios digitales educativos institucionales ( de la  Secretaría de Educación de Veracruz), donde el libro fue digitalizado para su consulta y análisis sintáctico mediante scripts de lectura de texto plano (.txt o procesamiento de PDF). 
 
+#  ** Texto de datos publicos ( Informacion geografica de departamentos de colombia por bloques lorem ipsum ):** 
+Lo obtuvimos descargándolo desde una página de Google dedicada a repositorios públicos de datos y recursos educativos en línea. Desde allí se guardó directamente en el equipo en la ruta local /Users/camilovalencia/Documents/txt/long-doc.txt.txt para ser procesado localmente mediante el script de Python.
+
 #  **Dataset de transporte (Aeropuertos de operación - SATENA):** 
 
 Origen primario: Datos operacionales de la empresa estatal Servicio Aéreo a Territorios Nacionales (SATENA) y la Aeronáutica Civil de Colombia. 
@@ -44,11 +47,7 @@ Representa el universo cultural, histórico y fantástico de Macondo. En un cont
 
 narrativos, personajes y conceptos clave como el aislamiento, las enfermedades o el tiempo. 
 
-
-Representacion de datos: Lo obtuvimos descargándolo desde una página de Google dedicada a repositorios públicos de datos y recursos educativos en línea.
-
-Desde allí se guardó directamente en el equipo en la ruta local /Users/camilovalencia/Documents/txt/long-doc.txt.txt para ser procesado localmente mediante el script de Python.
-
+#  ** Texto de datos publicos ( Informacion geografica de departamentos de colombia por bloques lorem ipsum ):** 
 Representa un archivo de texto plano (formato .txt) estructurado para pruebas de análisis de datos. Contiene una combinación de información geográfica de departamentos de Colombia (como Chocó, Antioquia o Amazonas con sus respectivas coordenadas de latitud y longitud) junto con un corpus de texto sintético compuesto por bloques de Lorem Ipsum e instrucciones de código (como la palabra translate), diseñado específicamente para practicar extracción de datos, visualización y procesamiento de lenguaje natural.
 
 #  **Dataset de transporte (SATENA):** 
@@ -57,7 +56,7 @@ Representación de datos: Constituye un conjunto de datos estructurados organiza
 
 Representa la infraestructura física, la cobertura de transporte aéreo regional y la conectividad geográfica en Colombia. Permite realizar análisis cuantitativos como el conteo de frecuencias por departamento, promedios, medianas y visualización de tendencias o dispersión de datos. 
 
-# Conclusiones obtenidas de los gráficos de los datos 
+#  **Conclusiones obtenidas de los gráficos de los datos:**
 •	Existe una alta diversidad topográfica en la red de operaciones de la aerolínea. Mientras que muchos aeródromos operan a nivel del mar o en zonas planas de baja altitud (cerca de 0 pies), otros picos superan los 800 pies, reflejando los retos geográficos de conectar regiones selváticas, costeras y montañosas.
 
 •	Chocó (10.5%), Antioquia (7.0%) y Amazonas (7.0%) lideran la concentración de operaciones o infraestructura registrada. Esto demuestra estadísticamente el propósito misional de la aerolínea estatal: priorizar la conectividad en regiones periféricas, selváticas o apartadas donde la infraestructura vial es limitada.
